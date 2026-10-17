@@ -55,3 +55,4 @@ Because the site is public, anyone who finds the URL can use the AI quota. Do no
 - Workers AI pricing: https://developers.cloudflare.com/workers-ai/platform/pricing/
 - Workers AI binding: https://developers.cloudflare.com/workers-ai/configuration/bindings/
 - Pages Functions: https://developers.cloudflare.com/pages/functions/
+Deployment refresh — October 17, 2026
