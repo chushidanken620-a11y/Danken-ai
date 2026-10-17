@@ -1,0 +1,8 @@
+{
+  "name": "danken-ai",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Danken AI — free-tier Cloudflare Pages + Workers AI website",
+  "scripts": {},
+  "license": "UNLICENSED"
+}
